@@ -1,2 +1,2 @@
 # notebook
-vim notbook
+vim notbook	and shell
